@@ -29,7 +29,7 @@ A comprehensive CCTV monitoring software dashboard built with Next.js 15, featur
 
 1. **Clone the repository**
 ```bash
-git clone <(https://github.com/Mridul9A/securesight-dashboard.git)>
+git clone https://github.com/Mridul9A/securesight-dashboard.git
 cd securesight-dashboard
 ```
 
